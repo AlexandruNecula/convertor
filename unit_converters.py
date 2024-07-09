@@ -21,9 +21,9 @@ class WeightConverter:
     # Dicționar pentru conversia greutății
     weight_units = {
         "kilograms": 1,
-        "grams": 1000,
+        "grams": 0.001,
         "milligrams": 1e6,
-        "tons": 0.001,
+        "tons": 1000,
         "pounds": 2.20462,
         "ounces": 35.274,
     }
