@@ -43,5 +43,3 @@ with st.expander("SI"):
 
     #fig.update_layout(width=500, height=300)
     st.write(fig)
-
-
